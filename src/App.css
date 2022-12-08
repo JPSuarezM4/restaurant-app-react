@@ -1,0 +1,20 @@
+.Home {
+    font-size: 100px;
+    position: absolute;
+    top: 45%;
+    left: 20%;
+    margin: -25px 0 0 -25px;
+    text-align: center;
+    text-decoration:underline;
+    color: rgb(53, 35, 3);
+}
+
+
+.App{
+    
+    height: 120vh;
+    background: #d8d5c5;  /* fallback for old browsers */
+    
+
+}
+
