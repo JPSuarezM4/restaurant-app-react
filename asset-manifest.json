@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/restaurant-app-react/static/css/main.2a8e8053.css",
+    "main.js": "/restaurant-app-react/static/js/main.e5aa368d.js",
+    "static/js/787.26da9b02.chunk.js": "/restaurant-app-react/static/js/787.26da9b02.chunk.js",
+    "static/media/pacificomar.jpg": "/restaurant-app-react/static/media/pacificomar.bf2e1511b8962bae1681.jpg",
+    "static/media/itailiares.jpg": "/restaurant-app-react/static/media/itailiares.690f28e01c2bc3790d40.jpg",
+    "static/media/pollofrito.jpg": "/restaurant-app-react/static/media/pollofrito.1880f8db87135754c325.jpg",
+    "static/media/fritosymas.jpg": "/restaurant-app-react/static/media/fritosymas.59dd69f22fb8ca4ae9e2.jpg",
+    "index.html": "/restaurant-app-react/index.html",
+    "main.2a8e8053.css.map": "/restaurant-app-react/static/css/main.2a8e8053.css.map",
+    "main.e5aa368d.js.map": "/restaurant-app-react/static/js/main.e5aa368d.js.map",
+    "787.26da9b02.chunk.js.map": "/restaurant-app-react/static/js/787.26da9b02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a8e8053.css",
+    "static/js/main.e5aa368d.js"
+  ]
+}
