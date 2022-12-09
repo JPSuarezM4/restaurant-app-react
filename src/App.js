@@ -18,9 +18,9 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route path='/' element={<div className='Home'>Busca tú restaurante</div>} />
-            <Route path='/cards' element={<Cards/>} />
-            <Route path='/form1' element={<Form1/>} />
-            <Route path='/form2' element={<Form2/>} />
+            <Route path='/Cards' element={<Cards/>} />
+            <Route path='/Form1' element={<Form1/>} />
+            <Route path='/Form2' element={<Form2/>} />
           </Routes>
         </BrowserRouter>
       </div>
